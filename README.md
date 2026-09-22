@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs and tailwind for frontend development**
 
-  - 📝 I regularly share my work on [**LinkedIn**](https://www.linkedin.com/)
+- 📝 I regularly share my work on [**LinkedIn**](https://www.linkedin.com/)
 
 - 💬 Ask me about **🌱 Currently exploring Next.js**
 
@@ -20,6 +20,3 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyashpaul&show_icons=true&locale=en" alt="piyashpaul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyashpaul&" alt="piyashpaul" /></p>
