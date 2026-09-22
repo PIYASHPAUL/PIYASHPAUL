@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **piyash.ok.1@gmail.com**
 
-- 📫 Feel free to reach me out **piyash.ok.1@gmail.com**
+- 📫 Feel free to reach me out: [Email] **piyash.ok.1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
