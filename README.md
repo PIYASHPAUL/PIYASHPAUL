@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Piyash Paul</h1>
-<h3 align="center">Aspiring Full-Stack Developer || Learning & Building with Modern Web Technologies</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Developer;Learning+%26+Building+with+Modern+Web+Technologies" alt="Typing SVG" />
+  </a>
+</p>
 
 <a href="https://www.linkedin.com/in/piyashpaul/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="30" height="30" alt="LinkedIn" />
-</a>
+</a>  <br> <br>
 
+
+👋 Hi, I'm [@piyashpaul](https://github.com/piyashpaul)
 - 🌱 I’m currently learning **React, Nodejs and tailwind for frontend development**
 
 - 📝 I regularly share my work on [**LinkedIn**](https://www.linkedin.com/)
